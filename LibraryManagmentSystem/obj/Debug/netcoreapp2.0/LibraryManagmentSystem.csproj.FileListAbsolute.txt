@@ -1,0 +1,16 @@
+c:\users\sam\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\netcoreapp2.0\LibraryManagmentSystem.deps.json
+c:\users\sam\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\netcoreapp2.0\LibraryManagmentSystem.runtimeconfig.json
+c:\users\sam\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\netcoreapp2.0\LibraryManagmentSystem.runtimeconfig.dev.json
+c:\users\sam\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\netcoreapp2.0\LibraryManagmentSystem.dll
+c:\users\sam\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\netcoreapp2.0\LibraryManagmentSystem.pdb
+c:\users\sam\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\netcoreapp2.0\LibraryManagmentSystem.csprojAssemblyReference.cache
+c:\users\sam\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\netcoreapp2.0\LibraryManagmentSystem.csproj.CoreCompileInputs.cache
+c:\users\sam\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\netcoreapp2.0\LibraryManagmentSystem.AssemblyInfoInputs.cache
+c:\users\sam\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\netcoreapp2.0\LibraryManagmentSystem.AssemblyInfo.cs
+c:\users\sam\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\netcoreapp2.0\LibraryManagmentSystem.dll
+c:\users\sam\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\netcoreapp2.0\LibraryManagmentSystem.pdb
+c:\users\sam\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\netcoreapp2.0\LibraryData.dll
+c:\users\sam\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\netcoreapp2.0\LibraryData.pdb
+c:\users\sam\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\netcoreapp2.0\LibraryManagmentSystem.csproj.CopyComplete
+c:\users\sam\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\netcoreapp2.0\LibraryServices.dll
+c:\users\sam\source\repos\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\netcoreapp2.0\LibraryServices.pdb
